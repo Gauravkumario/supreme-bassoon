@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Audiophile E-Commerce Website",
+    "link": "https://shopaudio.netlify.app/",
+    "github": "",
+    "projectImg": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ax9kvjgksws1lz8vrlim.jpg"
+  },
+  {
+    "id": 2,
+    "title": "REST Countries API with theme switcher",
+    "link": "https://nation-cts.netlify.app/",
+    "github": "",
+    "projectImg": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/wirxeocmd6tpnn9c5oqc.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Entertainment web app",
+    "link": "",
+    "github": "",
+    "projectImg": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zurpxclpp6gavavnw6d2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dine restaurant website",
+    "link": "",
+    "github": "",
+    "projectImg": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/glyb3m1iuyv9y8zzmmxc.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Devjobs web app",
+    "link": "https://remotetrail.me",
+    "github": "",
+    "projectImg": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/lowozx0v3khn1hyggkqy.jpg"
+  },
+  {
+    "id": 6,
+    "title": "URL shortening API landing page",
+    "link": "https://shorter.netlify.app/",
+    "github": "",
+    "projectImg": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/erg4fyzl3bu0r4kwcvvq.jpg"
+  }
+]
